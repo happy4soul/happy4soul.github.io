@@ -1,0 +1,49 @@
+body{
+  background-color: #ECE2E1;
+}
+.navbar{
+  text-align: center;
+  padding-top:1%;
+  padding-bottom:1%;
+  color: white;
+}
+.a1{
+  float: left;
+  margin-left:5%;
+  font-size: 2rem;
+  text-decoration: none;
+  color: grey;
+}
+.a1:hover{
+  color: white;
+}
+.h1{
+  font-size: 3rem;
+  font-family: 'Montserrat', serif;
+  font-weight: bold;
+
+}
+.p1{
+  font-size: 2rem;
+  line-height: 2;
+  padding-left:10%;
+  padding-right: 10%;
+}
+table{
+font-size: 1.5rem;
+line-height: 2;
+text-align: center;
+
+}
+a{
+  text-decoration: none;
+  color: #323232;
+}
+a:hover{
+  color: #C9D6DF;
+}
+.card-header{
+font-family: 'Merriweather', serif;
+font-weight: bold;
+font-size: 2.5rem;
+}
